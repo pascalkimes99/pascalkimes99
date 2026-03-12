@@ -1,7 +1,5 @@
 # Hi, I'm Pascal Kimes 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-
 ## 👨‍💻 Introduction
 
 I'm a Master's student in **Analytics & Artificial Intelligence (MAAI)** at ESMT Berlin, with a strong interest in **data science, econometrics, and machine learning**.
